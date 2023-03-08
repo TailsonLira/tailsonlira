@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do TailsonLira 😁
 
  <div>
-   <a href="https://github.com/TailsonLira">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TailsonLira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/tailsonLira">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tailsonLira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TailsonLira&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -22,4 +22,6 @@
  <a href="https://discord.com/channels/1069618155707711548/1069618155707711551" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/tailson-oliveira-2922a6269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/TailsonLiraTailsonLira/TailsonLira/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/tailsonlira/tailsonlira/blob/output/github-contribution-grid-snake.svg)
+
+ </div>
